@@ -2,6 +2,8 @@ web/bundles/
 app/bootstrap.php.cache
 app/cache/*
 app/logs/*
+web/media/*
 build/
 vendor
 composer.phar
+
